@@ -1,8 +1,7 @@
-import React from 'react'
 
-import profilePic from '../assets/yo.jpeg'
-import { HERO_CONTENT } from '../constants'
-import { delay, motion } from "framer-motion";
+import { motion } from "framer-motion";
+import profilePic from '../assets/yo.jpeg';
+import { HERO_CONTENT } from '../constants';
 
 const container = (delay) => ({
     hidden: { x: -100, opacity: 0 },
@@ -38,7 +37,7 @@ export const Hero = () => {
                     <motion.p variants={container(1)}
                     initial='hidden'
                     animate='visible'
-                     className='my-2 max-w-xl py-6 font-light tracking-tighter'>
+                     className='my-2 max-w-xl py-6  '>
                        {HERO_CONTENT} 
                     </motion.p>
                 </div>

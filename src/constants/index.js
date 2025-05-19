@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I'm a passionate frontend developer and data analyst with a knack for creating beautiful and functional user interfaces. I have a strong foundation in HTML, CSS, JavaScript, Python and I'm always eager to learn new technologies and improve my skills. My goal is to improve the enviroment and the targets of ML (Machine Learning) and the new system of the web (WEB 3.0) .`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I’m a curious and innovative developer with a passion for understanding how things work—whether it’s the human brain, machine learning algorithms, or the psychology behind great design. Over the past 2 years, I’ve combined my love for technology and aesthetics to build efficient, visually engaging web applications that leave a lasting impression. My expertise spans React, Next.js, Java Swing, XML, and database systems like MySQL, PostgreSQL, and PHP MyAdmin. I enjoy experimenting with 3D visuals, interactive interfaces, and bold color schemes to create unique user experiences. Beyond web development, I leverage Python for data analysis and Tableau for visualization, turning raw data into compelling stories.`;
 
 export const EXPERIENCES = [
   {
@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNu: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Av Universitaria #42A-60, Tunja, Colombia ",
+  phoneNu: "+57 3206448690 ",
+  email: "juannmunoz20@gmail.com",
 };
