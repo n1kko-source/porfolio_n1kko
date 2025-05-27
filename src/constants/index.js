@@ -15,7 +15,7 @@ My expertise spans React, Node.js, Java Swing, XML, and database systems like My
 export const EXPERIENCES = [
   {
     year: "2022 - 2023",
-    role: "Architecture Sttudent",
+    role: "Architecture Student",
     company: "Santo Tomas Tunja",
     description: `Having studied architecture was really an impulse to know in which area to dedicate my time and energy, it was important, because knowing how function and design converge has always been crucial in my life.`,
     technologies: ["Design Skills"],
