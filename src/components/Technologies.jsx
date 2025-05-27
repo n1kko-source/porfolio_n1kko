@@ -74,7 +74,7 @@ export const Technologies = () => {
 
         <TechnologyIcon 
           icon={TbBrandNextjs} 
-          name="Next.js" 
+          name="Node.js" 
           duration={2} 
           color="" 
         />

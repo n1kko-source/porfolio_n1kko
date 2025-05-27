@@ -1,10 +1,6 @@
-import React from 'react'
 
-import logo from '../assets/favicon/letra-n.png'
-import { FaLinkedin } from 'react-icons/fa'
-import { FaGithub } from 'react-icons/fa'
+import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
 import { FaSquareXTwitter } from 'react-icons/fa6'
-import { FaInstagram} from 'react-icons/fa'
 
 
 export const Navbar = () => {
@@ -15,10 +11,23 @@ export const Navbar = () => {
                        bg-clip-text text-4xl font-medium tracking-wide text-transparent'>N1kko</h2>
       </div>
       <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
+
+        <a className='nav-link' href="https://www.linkedin.com/in/juan-nicolas-mu%C3%B1oz-tavera-446a15316/">
         <FaLinkedin/>
+        </a>
+
+        <a className='nav-link' href="">
         <FaGithub/>
+        </a>
+
+        <a className='nav-link' href="">
         <FaSquareXTwitter/>
+        </a>
+
+        <a className='nav-link' href="">
         <FaInstagram/>
+        </a>
+
       </div>
     </nav>
     
